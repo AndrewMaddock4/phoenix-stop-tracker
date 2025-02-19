@@ -4,6 +4,8 @@
 ## How to run
 This app was written in Node.JS. It is dependent on [Node.JS](https://nodejs.org/en/download/current) being installed on your system.
 
+Please download and extract the source code.
+
 To run the program, run the following command in the project's root directory: 
 `npm run start /path/to/input /path/to/output`
 
