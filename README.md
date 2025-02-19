@@ -26,5 +26,5 @@ My steps for solving this were as follows:
 4. Calculate the speed of each vessel as new entries stream in
 5. Save any vessels and their locations if they are stopped for an hour or more
 6. Export as GeoJSON.
-a. Test using [geojson.io](https://geojson.io/), looking for any vessel repeating in the same area, or any vessels on land
-7. Take in command line arguments for input and output filepaths
+7. Test using [geojson.io](https://geojson.io/), looking for any vessel repeating in the same area, or any vessels on land
+8. Take in command line arguments for input and output filepaths
